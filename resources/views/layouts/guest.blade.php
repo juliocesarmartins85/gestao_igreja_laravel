@@ -23,7 +23,7 @@
         <div class="cover-container d-flex w-100 h-100 min-vh-100 p-3 mx-auto flex-column">
             <header class="mb-auto">
                 <div>
-                    <a href="/" class="float-md-start fs-3 text-white text-decoration-none">SiGI</a>
+                    <a href="/" class="float-md-start fs-3 text-white text-decoration-none">Igreja</a>
                     <nav class="nav nav-masthead justify-content-center float-md-end">
                         {{ $navlinks }}
                     </nav>
@@ -36,7 +36,7 @@
 
             <footer class="mt-auto text-white-50">
                 <p>
-                    Projeto SiGI | Desenvolvido por <a href="#" class="text-white">Isaac Pontes</a>.
+                    Projeto Igreja | Desenvolvido por <a href="#" class="text-white">Julio Cesar Martins</a>.
                 </p>
             </footer>
         </div>

@@ -1,6 +1,6 @@
-# SiGI - Sistema para Gestão de Igrejas
+# Igreja - Sistema para Gestão de Igrejas
 
-O SiGI é uma aplicação web de código aberto desenvolvida para auxiliar na organização de uma igreja. O sistema foi pensado a partir da estrutura interna de uma igreja cristã protestante tradicional, mas na prática, dentro das limitações desta estrutura, não há nada que impeça a sua adaptação para outros contextos, até mesmo não-religiosos. Com ele é possível gerenciar uma instituição religiosa, seus diferentes locais de culto, membros, eventos e finanças, tudo da forma mais simples possível através de um painel de controle.
+O Igreja é uma aplicação web de código aberto desenvolvida para auxiliar na organização de uma igreja. O sistema foi pensado a partir da estrutura interna de uma igreja cristã protestante tradicional, mas na prática, dentro das limitações desta estrutura, não há nada que impeça a sua adaptação para outros contextos, até mesmo não-religiosos. Com ele é possível gerenciar uma instituição religiosa, seus diferentes locais de culto, membros, eventos e finanças, tudo da forma mais simples possível através de um painel de controle.
 
 ### Características relevantes:
 

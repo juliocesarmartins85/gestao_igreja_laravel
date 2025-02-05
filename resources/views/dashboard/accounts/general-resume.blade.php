@@ -76,7 +76,7 @@
     <h2>{{ Auth::user()->church->name }}</h2>
   </header>
   <footer>
-      Gerado com SiGI - Copyright &copy; <?php echo date("Y");?>
+      Gerado com Igreja - Copyright &copy; <?php echo date("Y");?>
   </footer>
   <div class="mx-lg">
     <h4 class="mt-md text-center">Resumo Financeiro</h4>

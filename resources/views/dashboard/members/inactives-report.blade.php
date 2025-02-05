@@ -57,7 +57,7 @@
     <h2>{{ Auth::user()->church->name }}</h2>
   </header>
   <footer>
-      Gerado com SiGI - Copyright &copy; <?php echo date("Y");?>
+      Gerado com Igreja - Copyright &copy; <?php echo date("Y");?>
   </footer>
   <div>
     <h4 class="text-center">Lista de Membros Inativos</h4>

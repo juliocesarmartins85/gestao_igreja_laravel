@@ -8277,7 +8277,7 @@ __webpack_require__.r(__webpack_exports__);
 /******/ 			return __webpack_require__.O(result);
 /******/ 		}
 /******/ 		
-/******/ 		var chunkLoadingGlobal = self["webpackChunksigi_project"] = self["webpackChunksigi_project"] || [];
+/******/ 		var chunkLoadingGlobal = self["webpackChunkIgreja_project"] = self["webpackChunkIgreja_project"] || [];
 /******/ 		chunkLoadingGlobal.forEach(webpackJsonpCallback.bind(null, 0));
 /******/ 		chunkLoadingGlobal.push = webpackJsonpCallback.bind(null, chunkLoadingGlobal.push.bind(chunkLoadingGlobal));
 /******/ 	})();

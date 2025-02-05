@@ -44,7 +44,7 @@
 
                 <footer class="row bg-light px-4 py-2">
                     <div class="col-md-9 col-lg-10 offset-md-3 offset-lg-2">
-                        <span class="text-dark">{{ __('Thanks for using SiGI.') }}</span>
+                        <span class="text-dark">{{ __('Thanks for using Igreja.') }}</span>
                     </div>
                 </footer>
             </div>

@@ -54,7 +54,7 @@
     <h2>{{ Auth::user()->church->name }}</h2>
   </header>
   <footer>
-      Gerado com SiGI - Copyright &copy; <?php echo date("Y");?>
+      Gerado com Igreja - Copyright &copy; <?php echo date("Y");?>
   </footer>
   <div>
     <h3 class="text-center">Relatório Anual de Membresia - Ano de {{ $current_year }}</h3>

@@ -1,6 +1,6 @@
 <header class="navbar navbar-dark sticky-top bg-primary flex-md-nowrap p-0 shadow-sm">
     <a class="navbar-brand col-md-3 col-lg-2 me-0 px-3" href="{{ route('dashboard.start') }}">
-        SiGI | Dashboard
+        Igreja | Dashboard
     </a>
 
     {{-- <input class="form-control form-control w-100" type="text" placeholder="Pesquisar" aria-label="Search"> --}}
